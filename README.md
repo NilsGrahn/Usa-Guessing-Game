@@ -1,2 +1,2 @@
-# Project-one
-Self correcting data pipeline
+# USA guessing game first project
+
